@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.same {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.same.extra1 {
+    background-color: black;
+    color: white;
+}
+
+.same.extra2 {
+    background-color: yellow;
+}
